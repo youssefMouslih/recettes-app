@@ -1,0 +1,15 @@
+node_modules
+.expo
+.expo-shared
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+web-build
+dist
+build
+.expo
+.DS_Store
+android
+ios
+**/*.lock
